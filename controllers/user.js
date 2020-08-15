@@ -59,7 +59,6 @@ exports.getUser = (req, res) => {
 //         user.salt = undefined;
 //         res.json({user});
 //     });
-
 // }
 
 exports.updateUser = (req, res, next) => {
