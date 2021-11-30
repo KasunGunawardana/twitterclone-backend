@@ -51,6 +51,10 @@ app.listen(port, () => {
     console.log('this is a callback funtions from node js');
 });
 
+//Change made in local(there is a another change in live) let's see how to get both
+
+//first make a pull and then staged and commit and push
+
 //Change in master(github)
 
 //Change in local file
